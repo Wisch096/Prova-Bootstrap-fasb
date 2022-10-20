@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&display=swap');
+
+#titulo{
+    font-family: 'Kanit', sans-serif;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    height: 500px;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
