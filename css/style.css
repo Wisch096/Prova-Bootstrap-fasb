@@ -12,17 +12,3 @@
 .card-largura {
     max-width: 18rem;
 }
-
-a:link#footer {
-   text-decoration: none;
-}
-
-#footer {
-    font-size: 25px;
-}
-.container {
-    padding: 50px;
-}
-#carrosel {
-    color: black;
-}
